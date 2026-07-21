@@ -102,9 +102,9 @@ const regeneratedImageStormGrid3 = '/flood pictures 20.jpg';
 // First photo in the Sandbagging Network gallery/grid
 const regeneratedImageSandGrid1 = '/flood pictures 7.jpg';
 // Second photo in the Sandbagging Network gallery/grid
-const regeneratedImageSandGrid2 = '/flood pictures 8.jpg';
+const regeneratedImageSandGrid2 = '/flood pictures 9.jpg';
 // Third photo in the Sandbagging Network gallery/grid
-const regeneratedImageSandGrid3 = '/flood pictures 9.jpg';
+const regeneratedImageSandGrid3 = '/flood pictures 10.jpg';
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
